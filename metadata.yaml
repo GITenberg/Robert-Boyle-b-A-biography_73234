@@ -1,0 +1,33 @@
+_repo: Robert-Boyle-b-A-biography_73234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masson, Flora
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '56996'
+    url: http://www.gutenberg.org/2009/agents/56996
+    wikipedia: https://en.wikipedia.org/wiki/Flora_Masson
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73234'
+  lccn: '15003254'
+language: en
+pgterms:marc904: https://archive.org/details/robertboylebiogr00massrich
+pgterms:marc905: 20131001072109masson
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Chris Curnow and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bConstable & Company Ltd., $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boyle, Robert, 1627-1691'
+- !lcc 'QC'
+- GITenberg
+title: 'Robert Boyle : $b A biography'
+url: http://www.gutenberg.org/ebooks/73234
